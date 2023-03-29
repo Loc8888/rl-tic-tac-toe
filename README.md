@@ -1,4 +1,4 @@
-# rl-tic-tac-toe
+# rl-tictactoe
 Teaching reinforcement learning with a simple tic-tac-toe game.
 
 To run:
